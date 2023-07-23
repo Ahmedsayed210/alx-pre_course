@@ -1,2 +1,1 @@
-My first readme
-README updata from github.com 
+Iam a Software Engineer
